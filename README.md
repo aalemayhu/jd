@@ -1,4 +1,4 @@
-# jd
+# jd [![Netlify Status](https://api.netlify.com/api/v1/badges/7549db1b-51b8-4b61-88ec-73b9ad106621/deploy-status)](https://app.netlify.com/sites/vigilant-noyce-cba240/deploys)
 
 A static website to list out the Japanese days in a week. 
 
