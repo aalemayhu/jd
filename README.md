@@ -4,6 +4,8 @@ A static website to list out the Japanese days in a week.
 
 This project was bootstraped using the template at https://github.com/sveltejs/template.
 
+Checkout the live stream where I made it https://youtu.be/nmBQMmEymjM
+
 ## Get started
 
 Install the dependencies...
