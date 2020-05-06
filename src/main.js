@@ -1,4 +1,5 @@
 import App from './App.svelte';
+import "./main.css";
 
 let days = [
 	{ name: "Sunday", furigana: "にちようび", kanji: "日曜日", emoji: "🌞" },

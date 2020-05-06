@@ -2,9 +2,9 @@
   export let days;
 </script>
 
-<div class:days>
+<div class="p-4 bg-gray-200 flex flex-col items-center">
   {#each days as day}
-    <div class:day>
+    <div class="md:text-5xl sm:text-lg flex border p-2 w-2/4">
       <span>
         <ruby>
           {day.kanji}
@@ -18,15 +18,3 @@
     </div>
   {/each}
 </div>
-
-<style>
- .day {
-    font-size: 2rem;
-    border-bottom: 1px solid gray;
-  }
-
-
-  ruby {
-      border-right: 1px solid gray;
-  }
-</style>
